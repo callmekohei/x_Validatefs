@@ -1,0 +1,6 @@
+src/ValidateCore/bin/*
+src/ValidateCore/obj/*
+test/ValidateCoreTests/bin/*
+test/ValidateCoreTests/obj/*
+test/ValidateCoreTests/TestResults/*
+.vscode/*
